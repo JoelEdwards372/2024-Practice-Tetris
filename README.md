@@ -1,4 +1,4 @@
-**CODE WITH ME: Python TETRIS Game OOP [PART 1]: https://youtu.be/u-fuaFaHxQM**
+Excellent live tutorial here when you get stuck **CODE WITH ME: Python TETRIS Game OOP [PART 1]: https://youtu.be/u-fuaFaHxQM**
 
 clone the repository:
 
